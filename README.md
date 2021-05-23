@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align="center"> <h1 align="center"> Kartik Soni </h1> </p>
+<p align="center">
+<a href="https://github.com/Kartik77" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Kartik soni" height="20" width="20" /></a>
+<a href="https://twitter.com/kartikks7" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Kartik Soni" height="20" width="20" /></a>
+</p>
+
 <!--
 **Kartik77/Kartik77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
