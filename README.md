@@ -6,6 +6,8 @@
 <a href="https://twitter.com/kartikks7" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Kartik Soni" height="20" width="20" /></a>
 </p>
 
+I'm Kartik. Aiming to leverage my data management, analysis, community-building skills, and knowledge of different tools such as R, SQL, Python, Spreadsheets, Tableau, and BigQuery.
+
 <!--
 **Kartik77/Kartik77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
